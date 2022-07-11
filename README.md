@@ -2,6 +2,9 @@
 ## Developer Front-End;
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-004a85?style=for-the-badge&logo=ko-fi&logoColor=e9e9e9)](https://vitorgabrielgit.github.io)
+<a href = "mailto:vitorgabrieldeoliveiragit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/vitor_gabriel_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/naEUAMmzNJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 <div align=center>
 
