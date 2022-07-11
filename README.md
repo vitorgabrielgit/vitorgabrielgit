@@ -1,3 +1,8 @@
+# I'm Vitor;
+## Developer Front-End;
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-004a85?style=for-the-badge&logo=ko-fi&logoColor=e9e9e9)](https://vitorgabrielgit.github.io)
+
 <div align=center>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorgabrielgit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -5,7 +10,6 @@
 ##
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-
 ##
 </div>
 <div style="display: inline_block"><br>
@@ -17,4 +21,25 @@
   
 </div>
 
+<br><br>
+
+```javascript
+
+  function ConsoleElements(elements)
+{
+    const textConsole1 = elements.innerHTML.split('');
+    elements.innerHTML = '',
+    textConsole1.forEach((letra, i) => {
+        setTimeout(() => {
+            elements.innerHTML += letra
+        }, 30 * i);
+    });
+
+}
+
+```
+
 ##
+
+
+[MIT](https://choosealicense.com/licenses/mit/)
